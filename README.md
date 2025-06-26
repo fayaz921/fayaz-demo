@@ -2,4 +2,7 @@
 this is my first repository
 <br>
 Author: Muhammad Fayaz
-C# Console
+<br>
+Skills
+<br>
+C++,C#,Sql,Html/Css
