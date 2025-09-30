@@ -11,3 +11,4 @@ Office Automation(word,excell,powerpoint)
 Education: Bs Computer Science(5th semester)
 Navtcc Advance web development Certified
 Google AI Esstentials Certified
+Google UIUX Fundamentals Certified
